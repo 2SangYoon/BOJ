@@ -1,0 +1,137 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Snavg Yoon Lee\\OneDrive - inu.ac.kr\\\uBC14\uD0D5 \uD654\uBA74\\ALGORITHM\\\uC870\uAC74\uBB38\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{494A739E-B46D-4A1B-B889-3E96237652C3}|ex7\\ex7.vcxproj|C:\\Users\\Snavg Yoon Lee\\OneDrive - inu.ac.kr\\\uBC14\uD0D5 \uD654\uBA74\\ALGORITHM\\\uC870\uAC74\uBB38\\ex7\\ans_7.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{494A739E-B46D-4A1B-B889-3E96237652C3}|ex7\\ex7.vcxproj|solutionrelative:ex7\\ans_7.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF26209B-F714-4E85-91A8-03D3CDC227B2}|ex6\\ex6.vcxproj|C:\\Users\\Snavg Yoon Lee\\OneDrive - inu.ac.kr\\\uBC14\uD0D5 \uD654\uBA74\\ALGORITHM\\\uC870\uAC74\uBB38\\ex6\\ans_6.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DF26209B-F714-4E85-91A8-03D3CDC227B2}|ex6\\ex6.vcxproj|solutionrelative:ex6\\ans_6.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD22F60F-504F-498A-8FCE-26549F760BC3}|ex5\\ex5.vcxproj|C:\\Users\\Snavg Yoon Lee\\OneDrive - inu.ac.kr\\\uBC14\uD0D5 \uD654\uBA74\\ALGORITHM\\\uC870\uAC74\uBB38\\ex5\\ans_5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FD22F60F-504F-498A-8FCE-26549F760BC3}|ex5\\ex5.vcxproj|solutionrelative:ex5\\ans_5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{954FBC8E-B71C-4A50-8AB6-85292B179379}|ex3\\ex3.vcxproj|C:\\Users\\Snavg Yoon Lee\\OneDrive - inu.ac.kr\\\uBC14\uD0D5 \uD654\uBA74\\ALGORITHM\\\uC870\uAC74\uBB38\\ex3\\ans_3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{954FBC8E-B71C-4A50-8AB6-85292B179379}|ex3\\ex3.vcxproj|solutionrelative:ex3\\ans_3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BD51DBD-69D2-4228-8301-06115CCB773F}|ex4\\ex4.vcxproj|C:\\Users\\Snavg Yoon Lee\\OneDrive - inu.ac.kr\\\uBC14\uD0D5 \uD654\uBA74\\ALGORITHM\\\uC870\uAC74\uBB38\\ex4\\ans_4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7BD51DBD-69D2-4228-8301-06115CCB773F}|ex4\\ex4.vcxproj|solutionrelative:ex4\\ans_4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{533933D2-C3BE-401B-BB50-EF40ACB3BE2A}|ex2\\ex2.vcxproj|C:\\Users\\Snavg Yoon Lee\\OneDrive - inu.ac.kr\\\uBC14\uD0D5 \uD654\uBA74\\ALGORITHM\\\uC870\uAC74\uBB38\\ex2\\ans_2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{533933D2-C3BE-401B-BB50-EF40ACB3BE2A}|ex2\\ex2.vcxproj|solutionrelative:ex2\\ans_2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6EF02AB-4626-4134-B013-88B6732245E7}|\uC870\uAC74\uBB38\\\uC870\uAC74\uBB38.vcxproj|C:\\Users\\Snavg Yoon Lee\\OneDrive - inu.ac.kr\\\uBC14\uD0D5 \uD654\uBA74\\ALGORITHM\\\uC870\uAC74\uBB38\\\uC870\uAC74\uBB38\\ans_1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F6EF02AB-4626-4134-B013-88B6732245E7}|\uC870\uAC74\uBB38\\\uC870\uAC74\uBB38.vcxproj|solutionrelative:\uC870\uAC74\uBB38\\ans_1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ans_7.cpp",
+              "DocumentMoniker": "C:\\Users\\Snavg Yoon Lee\\OneDrive - inu.ac.kr\\\uBC14\uD0D5 \uD654\uBA74\\ALGORITHM\\\uC870\uAC74\uBB38\\ex7\\ans_7.cpp",
+              "RelativeDocumentMoniker": "ex7\\ans_7.cpp",
+              "ToolTip": "C:\\Users\\Snavg Yoon Lee\\OneDrive - inu.ac.kr\\\uBC14\uD0D5 \uD654\uBA74\\ALGORITHM\\\uC870\uAC74\uBB38\\ex7\\ans_7.cpp",
+              "RelativeToolTip": "ex7\\ans_7.cpp",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-01T17:40:02.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ans_6.cpp",
+              "DocumentMoniker": "C:\\Users\\Snavg Yoon Lee\\OneDrive - inu.ac.kr\\\uBC14\uD0D5 \uD654\uBA74\\ALGORITHM\\\uC870\uAC74\uBB38\\ex6\\ans_6.cpp",
+              "RelativeDocumentMoniker": "ex6\\ans_6.cpp",
+              "ToolTip": "C:\\Users\\Snavg Yoon Lee\\OneDrive - inu.ac.kr\\\uBC14\uD0D5 \uD654\uBA74\\ALGORITHM\\\uC870\uAC74\uBB38\\ex6\\ans_6.cpp",
+              "RelativeToolTip": "ex6\\ans_6.cpp",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-01T17:32:04.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ans_5.cpp",
+              "DocumentMoniker": "C:\\Users\\Snavg Yoon Lee\\OneDrive - inu.ac.kr\\\uBC14\uD0D5 \uD654\uBA74\\ALGORITHM\\\uC870\uAC74\uBB38\\ex5\\ans_5.cpp",
+              "RelativeDocumentMoniker": "ex5\\ans_5.cpp",
+              "ToolTip": "C:\\Users\\Snavg Yoon Lee\\OneDrive - inu.ac.kr\\\uBC14\uD0D5 \uD654\uBA74\\ALGORITHM\\\uC870\uAC74\uBB38\\ex5\\ans_5.cpp",
+              "RelativeToolTip": "ex5\\ans_5.cpp",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-01T17:21:03.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ans_4.cpp",
+              "DocumentMoniker": "C:\\Users\\Snavg Yoon Lee\\OneDrive - inu.ac.kr\\\uBC14\uD0D5 \uD654\uBA74\\ALGORITHM\\\uC870\uAC74\uBB38\\ex4\\ans_4.cpp",
+              "RelativeDocumentMoniker": "ex4\\ans_4.cpp",
+              "ToolTip": "C:\\Users\\Snavg Yoon Lee\\OneDrive - inu.ac.kr\\\uBC14\uD0D5 \uD654\uBA74\\ALGORITHM\\\uC870\uAC74\uBB38\\ex4\\ans_4.cpp",
+              "RelativeToolTip": "ex4\\ans_4.cpp",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAACAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-01T15:11:17.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ans_3.cpp",
+              "DocumentMoniker": "C:\\Users\\Snavg Yoon Lee\\OneDrive - inu.ac.kr\\\uBC14\uD0D5 \uD654\uBA74\\ALGORITHM\\\uC870\uAC74\uBB38\\ex3\\ans_3.cpp",
+              "RelativeDocumentMoniker": "ex3\\ans_3.cpp",
+              "ToolTip": "C:\\Users\\Snavg Yoon Lee\\OneDrive - inu.ac.kr\\\uBC14\uD0D5 \uD654\uBA74\\ALGORITHM\\\uC870\uAC74\uBB38\\ex3\\ans_3.cpp",
+              "RelativeToolTip": "ex3\\ans_3.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-01T14:37:25.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ans_2.cpp",
+              "DocumentMoniker": "C:\\Users\\Snavg Yoon Lee\\OneDrive - inu.ac.kr\\\uBC14\uD0D5 \uD654\uBA74\\ALGORITHM\\\uC870\uAC74\uBB38\\ex2\\ans_2.cpp",
+              "RelativeDocumentMoniker": "ex2\\ans_2.cpp",
+              "ToolTip": "C:\\Users\\Snavg Yoon Lee\\OneDrive - inu.ac.kr\\\uBC14\uD0D5 \uD654\uBA74\\ALGORITHM\\\uC870\uAC74\uBB38\\ex2\\ans_2.cpp",
+              "RelativeToolTip": "ex2\\ans_2.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-01T14:33:24.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ans_1.cpp",
+              "DocumentMoniker": "C:\\Users\\Snavg Yoon Lee\\OneDrive - inu.ac.kr\\\uBC14\uD0D5 \uD654\uBA74\\ALGORITHM\\\uC870\uAC74\uBB38\\\uC870\uAC74\uBB38\\ans_1.cpp",
+              "RelativeDocumentMoniker": "\uC870\uAC74\uBB38\\ans_1.cpp",
+              "ToolTip": "C:\\Users\\Snavg Yoon Lee\\OneDrive - inu.ac.kr\\\uBC14\uD0D5 \uD654\uBA74\\ALGORITHM\\\uC870\uAC74\uBB38\\\uC870\uAC74\uBB38\\ans_1.cpp",
+              "RelativeToolTip": "\uC870\uAC74\uBB38\\ans_1.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-01T14:31:13.519Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

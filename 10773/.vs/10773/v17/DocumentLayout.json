@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Snavg Yoon Lee\\OneDrive - inu.ac.kr\\\uBC14\uD0D5 \uD654\uBA74\\ALGORITHM\\10773\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CF9ADD07-9ED5-4C72-946C-FA3AB9BE5F39}|10773\\10773.vcxproj|C:\\Users\\Snavg Yoon Lee\\OneDrive - inu.ac.kr\\\uBC14\uD0D5 \uD654\uBA74\\ALGORITHM\\10773\\10773\\Ans_10773.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CF9ADD07-9ED5-4C72-946C-FA3AB9BE5F39}|10773\\10773.vcxproj|solutionrelative:10773\\Ans_10773.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Ans_10773.cpp",
+              "DocumentMoniker": "C:\\Users\\Snavg Yoon Lee\\OneDrive - inu.ac.kr\\\uBC14\uD0D5 \uD654\uBA74\\ALGORITHM\\10773\\10773\\Ans_10773.cpp",
+              "RelativeDocumentMoniker": "10773\\Ans_10773.cpp",
+              "ToolTip": "C:\\Users\\Snavg Yoon Lee\\OneDrive - inu.ac.kr\\\uBC14\uD0D5 \uD654\uBA74\\ALGORITHM\\10773\\10773\\Ans_10773.cpp",
+              "RelativeToolTip": "10773\\Ans_10773.cpp",
+              "ViewState": "AQIAABIAAAAAAAAAAAAwwCkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-21T12:43:08.926Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

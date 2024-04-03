@@ -1,0 +1,229 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\C,C\u002B\u002B\\ALGORITHM\\\uC785\uCD9C\uB825\uACFC \uC0AC\uCE59\uC5F0\uC0B0\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6F18ED63-4133-4914-B522-21E0F17429A5}|ex5\\ex5.vcxproj|C:\\C,C\u002B\u002B\\ALGORITHM\\\uC785\uCD9C\uB825\uACFC \uC0AC\uCE59\uC5F0\uC0B0\\ex5\\ans_5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6F18ED63-4133-4914-B522-21E0F17429A5}|ex5\\ex5.vcxproj|solutionrelative:ex5\\ans_5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6299892E-D71C-44BB-8257-D104C3A63D76}|ex11\\ex11.vcxproj|C:\\C,C\u002B\u002B\\ALGORITHM\\\uC785\uCD9C\uB825\uACFC \uC0AC\uCE59\uC5F0\uC0B0\\ex11\\ans_11.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6299892E-D71C-44BB-8257-D104C3A63D76}|ex11\\ex11.vcxproj|solutionrelative:ex11\\ans_11.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15E5AF30-3555-4A24-9749-143B69A2D00F}|ex13\\ex13.vcxproj|C:\\C,C\u002B\u002B\\ALGORITHM\\\uC785\uCD9C\uB825\uACFC \uC0AC\uCE59\uC5F0\uC0B0\\ex13\\ans_13.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{15E5AF30-3555-4A24-9749-143B69A2D00F}|ex13\\ex13.vcxproj|solutionrelative:ex13\\ans_13.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1105008E-F4C1-468A-8237-4C12022E370F}|ex12\\ex12.vcxproj|C:\\C,C\u002B\u002B\\ALGORITHM\\\uC785\uCD9C\uB825\uACFC \uC0AC\uCE59\uC5F0\uC0B0\\ex12\\ans_12.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1105008E-F4C1-468A-8237-4C12022E370F}|ex12\\ex12.vcxproj|solutionrelative:ex12\\ans_12.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C45C9B50-1CCD-4AA6-A830-42195CAE9AAE}|ex10\\ex10.vcxproj|C:\\C,C\u002B\u002B\\ALGORITHM\\\uC785\uCD9C\uB825\uACFC \uC0AC\uCE59\uC5F0\uC0B0\\ex10\\ans_10.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C45C9B50-1CCD-4AA6-A830-42195CAE9AAE}|ex10\\ex10.vcxproj|solutionrelative:ex10\\ans_10.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0429ECCE-164C-49B0-AEAB-915C4CD4E1F1}|ex9\\ex9.vcxproj|C:\\C,C\u002B\u002B\\ALGORITHM\\\uC785\uCD9C\uB825\uACFC \uC0AC\uCE59\uC5F0\uC0B0\\ex9\\ans_9.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0429ECCE-164C-49B0-AEAB-915C4CD4E1F1}|ex9\\ex9.vcxproj|solutionrelative:ex9\\ans_9.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4C0155C-54E9-4E38-9D02-04792761DDE4}|ex8\\ex8.vcxproj|C:\\C,C\u002B\u002B\\ALGORITHM\\\uC785\uCD9C\uB825\uACFC \uC0AC\uCE59\uC5F0\uC0B0\\ex8\\ans_8.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E4C0155C-54E9-4E38-9D02-04792761DDE4}|ex8\\ex8.vcxproj|solutionrelative:ex8\\ans_8.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17F11F3B-D05A-4997-B395-2773A933611F}|ex1\\ex1.vcxproj|C:\\C,C\u002B\u002B\\ALGORITHM\\\uC785\uCD9C\uB825\uACFC \uC0AC\uCE59\uC5F0\uC0B0\\ex1\\ans_1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{17F11F3B-D05A-4997-B395-2773A933611F}|ex1\\ex1.vcxproj|solutionrelative:ex1\\ans_1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D759535-81EA-4617-9E00-038FAB3BE327}|ex7\\ex7.vcxproj|C:\\C,C\u002B\u002B\\ALGORITHM\\\uC785\uCD9C\uB825\uACFC \uC0AC\uCE59\uC5F0\uC0B0\\ex7\\ans_7.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3D759535-81EA-4617-9E00-038FAB3BE327}|ex7\\ex7.vcxproj|solutionrelative:ex7\\ans_7.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19B14A2F-2732-4C67-9338-F27293A6AF52}|ex6\\ex6.vcxproj|C:\\C,C\u002B\u002B\\ALGORITHM\\\uC785\uCD9C\uB825\uACFC \uC0AC\uCE59\uC5F0\uC0B0\\ex6\\ans_6.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{19B14A2F-2732-4C67-9338-F27293A6AF52}|ex6\\ex6.vcxproj|solutionrelative:ex6\\ans_6.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE1D71D1-BEAC-4368-A492-FB785450AD2F}|ex4\\ex4.vcxproj|C:\\C,C\u002B\u002B\\ALGORITHM\\\uC785\uCD9C\uB825\uACFC \uC0AC\uCE59\uC5F0\uC0B0\\ex4\\ans_4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DE1D71D1-BEAC-4368-A492-FB785450AD2F}|ex4\\ex4.vcxproj|solutionrelative:ex4\\ans_4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{850ADAD4-90BC-4F2A-B2F3-9F3AC2E75DAD}|ex3\\ex3.vcxproj|C:\\C,C\u002B\u002B\\ALGORITHM\\\uC785\uCD9C\uB825\uACFC \uC0AC\uCE59\uC5F0\uC0B0\\ex3\\ans_3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{850ADAD4-90BC-4F2A-B2F3-9F3AC2E75DAD}|ex3\\ex3.vcxproj|solutionrelative:ex3\\ans_3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{894D4357-1E52-499C-BECE-89FFBA8A21FA}|ex2\\ex2.vcxproj|C:\\C,C\u002B\u002B\\ALGORITHM\\\uC785\uCD9C\uB825\uACFC \uC0AC\uCE59\uC5F0\uC0B0\\ex2\\ans_2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{894D4357-1E52-499C-BECE-89FFBA8A21FA}|ex2\\ex2.vcxproj|solutionrelative:ex2\\ans_2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ans_13.cpp",
+              "DocumentMoniker": "C:\\C,C\u002B\u002B\\ALGORITHM\\\uC785\uCD9C\uB825\uACFC \uC0AC\uCE59\uC5F0\uC0B0\\ex13\\ans_13.cpp",
+              "RelativeDocumentMoniker": "ex13\\ans_13.cpp",
+              "ToolTip": "C:\\C,C\u002B\u002B\\ALGORITHM\\\uC785\uCD9C\uB825\uACFC \uC0AC\uCE59\uC5F0\uC0B0\\ex13\\ans_13.cpp",
+              "RelativeToolTip": "ex13\\ans_13.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-01T12:25:56.636Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ans_12.cpp",
+              "DocumentMoniker": "C:\\C,C\u002B\u002B\\ALGORITHM\\\uC785\uCD9C\uB825\uACFC \uC0AC\uCE59\uC5F0\uC0B0\\ex12\\ans_12.cpp",
+              "RelativeDocumentMoniker": "ex12\\ans_12.cpp",
+              "ToolTip": "C:\\C,C\u002B\u002B\\ALGORITHM\\\uC785\uCD9C\uB825\uACFC \uC0AC\uCE59\uC5F0\uC0B0\\ex12\\ans_12.cpp",
+              "RelativeToolTip": "ex12\\ans_12.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-01T12:15:31.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ans_11.cpp",
+              "DocumentMoniker": "C:\\C,C\u002B\u002B\\ALGORITHM\\\uC785\uCD9C\uB825\uACFC \uC0AC\uCE59\uC5F0\uC0B0\\ex11\\ans_11.cpp",
+              "RelativeDocumentMoniker": "ex11\\ans_11.cpp",
+              "ToolTip": "C:\\C,C\u002B\u002B\\ALGORITHM\\\uC785\uCD9C\uB825\uACFC \uC0AC\uCE59\uC5F0\uC0B0\\ex11\\ans_11.cpp",
+              "RelativeToolTip": "ex11\\ans_11.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-01T12:10:25.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ans_5.cpp",
+              "DocumentMoniker": "C:\\C,C\u002B\u002B\\ALGORITHM\\\uC785\uCD9C\uB825\uACFC \uC0AC\uCE59\uC5F0\uC0B0\\ex5\\ans_5.cpp",
+              "RelativeDocumentMoniker": "ex5\\ans_5.cpp",
+              "ToolTip": "C:\\C,C\u002B\u002B\\ALGORITHM\\\uC785\uCD9C\uB825\uACFC \uC0AC\uCE59\uC5F0\uC0B0\\ex5\\ans_5.cpp",
+              "RelativeToolTip": "ex5\\ans_5.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAQwBMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-25T06:33:17.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ans_10.cpp",
+              "DocumentMoniker": "C:\\C,C\u002B\u002B\\ALGORITHM\\\uC785\uCD9C\uB825\uACFC \uC0AC\uCE59\uC5F0\uC0B0\\ex10\\ans_10.cpp",
+              "RelativeDocumentMoniker": "ex10\\ans_10.cpp",
+              "ToolTip": "C:\\C,C\u002B\u002B\\ALGORITHM\\\uC785\uCD9C\uB825\uACFC \uC0AC\uCE59\uC5F0\uC0B0\\ex10\\ans_10.cpp",
+              "RelativeToolTip": "ex10\\ans_10.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-01T12:05:44.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ans_9.cpp",
+              "DocumentMoniker": "C:\\C,C\u002B\u002B\\ALGORITHM\\\uC785\uCD9C\uB825\uACFC \uC0AC\uCE59\uC5F0\uC0B0\\ex9\\ans_9.cpp",
+              "RelativeDocumentMoniker": "ex9\\ans_9.cpp",
+              "ToolTip": "C:\\C,C\u002B\u002B\\ALGORITHM\\\uC785\uCD9C\uB825\uACFC \uC0AC\uCE59\uC5F0\uC0B0\\ex9\\ans_9.cpp",
+              "RelativeToolTip": "ex9\\ans_9.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-01T12:01:03.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ans_8.cpp",
+              "DocumentMoniker": "C:\\C,C\u002B\u002B\\ALGORITHM\\\uC785\uCD9C\uB825\uACFC \uC0AC\uCE59\uC5F0\uC0B0\\ex8\\ans_8.cpp",
+              "RelativeDocumentMoniker": "ex8\\ans_8.cpp",
+              "ToolTip": "C:\\C,C\u002B\u002B\\ALGORITHM\\\uC785\uCD9C\uB825\uACFC \uC0AC\uCE59\uC5F0\uC0B0\\ex8\\ans_8.cpp",
+              "RelativeToolTip": "ex8\\ans_8.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-25T06:52:03.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ans_7.cpp",
+              "DocumentMoniker": "C:\\C,C\u002B\u002B\\ALGORITHM\\\uC785\uCD9C\uB825\uACFC \uC0AC\uCE59\uC5F0\uC0B0\\ex7\\ans_7.cpp",
+              "RelativeDocumentMoniker": "ex7\\ans_7.cpp",
+              "ToolTip": "C:\\C,C\u002B\u002B\\ALGORITHM\\\uC785\uCD9C\uB825\uACFC \uC0AC\uCE59\uC5F0\uC0B0\\ex7\\ans_7.cpp",
+              "RelativeToolTip": "ex7\\ans_7.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-25T06:43:19.61Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ans_6.cpp",
+              "DocumentMoniker": "C:\\C,C\u002B\u002B\\ALGORITHM\\\uC785\uCD9C\uB825\uACFC \uC0AC\uCE59\uC5F0\uC0B0\\ex6\\ans_6.cpp",
+              "RelativeDocumentMoniker": "ex6\\ans_6.cpp",
+              "ToolTip": "C:\\C,C\u002B\u002B\\ALGORITHM\\\uC785\uCD9C\uB825\uACFC \uC0AC\uCE59\uC5F0\uC0B0\\ex6\\ans_6.cpp",
+              "RelativeToolTip": "ex6\\ans_6.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-25T06:40:22.611Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ans_4.cpp",
+              "DocumentMoniker": "C:\\C,C\u002B\u002B\\ALGORITHM\\\uC785\uCD9C\uB825\uACFC \uC0AC\uCE59\uC5F0\uC0B0\\ex4\\ans_4.cpp",
+              "RelativeDocumentMoniker": "ex4\\ans_4.cpp",
+              "ToolTip": "C:\\C,C\u002B\u002B\\ALGORITHM\\\uC785\uCD9C\uB825\uACFC \uC0AC\uCE59\uC5F0\uC0B0\\ex4\\ans_4.cpp",
+              "RelativeToolTip": "ex4\\ans_4.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-25T06:32:21.12Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ans_3.cpp",
+              "DocumentMoniker": "C:\\C,C\u002B\u002B\\ALGORITHM\\\uC785\uCD9C\uB825\uACFC \uC0AC\uCE59\uC5F0\uC0B0\\ex3\\ans_3.cpp",
+              "RelativeDocumentMoniker": "ex3\\ans_3.cpp",
+              "ToolTip": "C:\\C,C\u002B\u002B\\ALGORITHM\\\uC785\uCD9C\uB825\uACFC \uC0AC\uCE59\uC5F0\uC0B0\\ex3\\ans_3.cpp",
+              "RelativeToolTip": "ex3\\ans_3.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-25T06:31:03.38Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ans_2.cpp",
+              "DocumentMoniker": "C:\\C,C\u002B\u002B\\ALGORITHM\\\uC785\uCD9C\uB825\uACFC \uC0AC\uCE59\uC5F0\uC0B0\\ex2\\ans_2.cpp",
+              "RelativeDocumentMoniker": "ex2\\ans_2.cpp",
+              "ToolTip": "C:\\C,C\u002B\u002B\\ALGORITHM\\\uC785\uCD9C\uB825\uACFC \uC0AC\uCE59\uC5F0\uC0B0\\ex2\\ans_2.cpp",
+              "RelativeToolTip": "ex2\\ans_2.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-25T06:28:28.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ans_1.cpp",
+              "DocumentMoniker": "C:\\C,C\u002B\u002B\\ALGORITHM\\\uC785\uCD9C\uB825\uACFC \uC0AC\uCE59\uC5F0\uC0B0\\ex1\\ans_1.cpp",
+              "RelativeDocumentMoniker": "ex1\\ans_1.cpp",
+              "ToolTip": "C:\\C,C\u002B\u002B\\ALGORITHM\\\uC785\uCD9C\uB825\uACFC \uC0AC\uCE59\uC5F0\uC0B0\\ex1\\ans_1.cpp",
+              "RelativeToolTip": "ex1\\ans_1.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-25T06:27:04.396Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
